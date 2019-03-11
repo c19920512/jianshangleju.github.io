@@ -1,0 +1,16 @@
+#header .navbar-header .navbar-brand{
+    padding:0;
+    line-height: 50px;
+	margin-right:15px;
+}
+#header .navbar-header .navbar-brand span{
+  margin-left: 8px;
+}
+
+#example-navbar-collapse .nav>li>a {
+	padding: 15px 55px;
+	color:#000;
+}
+#myCarousel {
+	margin:0 0 15px 0;
+}
