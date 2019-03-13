@@ -1,3 +1,4 @@
+
 #header .navbar-header .navbar-brand{
     padding:0;
     line-height: 50px;
@@ -10,7 +11,14 @@
 #example-navbar-collapse .nav>li>a {
 	padding: 15px 55px;
 	color:#000;
+	font-size:18px;
+	font-weight:bold;
 }
 #myCarousel {
 	margin:0 0 15px 0;
+}
+
+#myTabContent p{
+	font-size:16px;
+	font-weight:bold;
 }
